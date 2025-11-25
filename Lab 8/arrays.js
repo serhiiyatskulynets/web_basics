@@ -83,8 +83,8 @@ function arrayDifference(a, b) {
 
     return result;
 }
-const arrA = [15, 2, 9, 3, 4, 10, 4];
-const arrB = [2, 4, 8];
+const arrA = [1, 2, 2, 3, 4, 4, 4];
+const arrB = [2, 4, 4];
 
 const result3 = arrayDifference(arrA, arrB);
 
